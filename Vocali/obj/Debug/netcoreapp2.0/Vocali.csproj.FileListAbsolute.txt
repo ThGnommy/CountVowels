@@ -1,0 +1,11 @@
+C:\Users\gnomm\Documents\Vocali\Vocali\bin\Debug\netcoreapp2.0\Vocali.deps.json
+C:\Users\gnomm\Documents\Vocali\Vocali\bin\Debug\netcoreapp2.0\Vocali.runtimeconfig.json
+C:\Users\gnomm\Documents\Vocali\Vocali\bin\Debug\netcoreapp2.0\Vocali.runtimeconfig.dev.json
+C:\Users\gnomm\Documents\Vocali\Vocali\bin\Debug\netcoreapp2.0\Vocali.dll
+C:\Users\gnomm\Documents\Vocali\Vocali\bin\Debug\netcoreapp2.0\Vocali.pdb
+C:\Users\gnomm\Documents\Vocali\Vocali\obj\Debug\netcoreapp2.0\Vocali.csproj.CoreCompileInputs.cache
+C:\Users\gnomm\Documents\Vocali\Vocali\obj\Debug\netcoreapp2.0\Vocali.AssemblyInfoInputs.cache
+C:\Users\gnomm\Documents\Vocali\Vocali\obj\Debug\netcoreapp2.0\Vocali.AssemblyInfo.cs
+C:\Users\gnomm\Documents\Vocali\Vocali\obj\Debug\netcoreapp2.0\Vocali.dll
+C:\Users\gnomm\Documents\Vocali\Vocali\obj\Debug\netcoreapp2.0\Vocali.pdb
+C:\Users\gnomm\Documents\Vocali\Vocali\obj\Debug\netcoreapp2.0\Vocali.csprojResolveAssemblyReference.cache
